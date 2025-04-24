@@ -1,9 +1,9 @@
 # 💫 About Me:
-Hi there! I'm **[Your Name]** 👋  
+Hi there! I'm **[[samruddhi]** 👋  
 🎓 I'm a passionate Computer Science student who loves to learn, build, and collaborate.  
 🌱 Currently learning **[Your Focus Area e.g., Web Development | Machine Learning | Data Structures]**  
 💡 Always exploring new tools and technologies!  
-📫 How to reach me: [your.email@example.com]
+📫 How to reach me: [samruddhipatil556@gmail.com]
 
 ---
 
